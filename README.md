@@ -1,5 +1,3 @@
----markdown
-
 # Lewis NDAMBIRI
 
 > **Dual Master's Student in Industrial Engineering & Computer Science**  
