@@ -5,11 +5,6 @@
 
 ---
 
-### 🚀 Featured Projects  
-*Coming soon — stay tuned for my work in simulation-driven logistics optimization, AI-powered resource scheduling, and HPC-enabled enterprise modeling.*
-
----
-
 ### 📚 Education
 
 **M.S. in Industrial Engineering**  
